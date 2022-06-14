@@ -3,7 +3,7 @@ use dinesh_1BM20CS043;
 
 create table PERSON
  ( 
-	driver_id varchar(20) primary key,
+    driver_id varchar(20) primary key,
     driver_name varchar(30),
     driver_adress varchar(20)
 );
